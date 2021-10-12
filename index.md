@@ -5,8 +5,8 @@ A list with your favorite conference talks broken up by topics! Feel free to ope
 
 ## Tech
 - [The thrilling potential of SixthSense technology](https://www.youtube.com/watch?v=YrtANPtnhyg) by Pranav Mistry
-
 - [A Philosophy of Software Design](https://youtu.be/bmSAYlu0NcY) by John Ousterhout
+- [MIT Sloan Distinguished Speaker Series](https://www.youtube.com/watch?v=Gk-9Fd2mEnI) by Steve Jobs
 
 ## Design
 
