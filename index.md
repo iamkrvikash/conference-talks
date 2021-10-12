@@ -1,4 +1,4 @@
-#  Conference Talks
+#  Conference Talks  ![](https://visitor-badge.glitch.me/badge?page_id=iamkrvikash.conference-talks)
 
 A list with your favorite conference talks broken up by topics! Feel free to open a PR with your suggestions!
 
