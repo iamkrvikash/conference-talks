@@ -7,12 +7,10 @@ A list with your favorite conference talks broken up by topics! Feel free to ope
 - [The thrilling potential of SixthSense technology](https://www.youtube.com/watch?v=YrtANPtnhyg) by Pranav Mistry
 - [A Philosophy of Software Design](https://youtu.be/bmSAYlu0NcY) by John Ousterhout
 - [MIT Sloan Distinguished Speaker Series](https://www.youtube.com/watch?v=Gk-9Fd2mEnI) by Steve Jobs
+- [The mind behind Linux](https://www.youtube.com/watch?v=o8NPllzkFhE) by Linus Torvalds
+
 
 ## Design
 
 - [Design like a scientist](https://www.youtube.com/watch?v=XRd6Ddn4ZSY) by Navin Iyengar
 
-
-## TED
-
-- [The mind behind Linux](https://www.youtube.com/watch?v=o8NPllzkFhE) by Linus Torvalds
