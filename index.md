@@ -35,5 +35,5 @@ A list with your favorite conference talks broken up by topics! Feel free to ope
 
 ## Life-Hacks
 
--[Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU&ab_channel=TED) by Tim Urban
--[How to speak so that people want to listen ](https://www.youtube.com/watch?v=eIho2S0ZahI&ab_channel=TED) by Julian Treasure
+- [Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU&ab_channel=TED) by Tim Urban
+- [How to speak so that people want to listen ](https://www.youtube.com/watch?v=eIho2S0ZahI&ab_channel=TED) by Julian Treasure
