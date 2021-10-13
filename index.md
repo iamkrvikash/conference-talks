@@ -16,6 +16,8 @@ A list with your favorite conference talks broken up by topics! Feel free to ope
 - [Imaging at a trillion frames per second](https://www.youtube.com/watch?v=Y_9vd4HWlVA) by Ramesh Raskar
 - [The danger of AI is weirder than you think](https://www.youtube.com/watch?v=OhCzX0iLnOc) by Janelle Shane
 - [How a handful of tech companies control billions of minds every day](https://www.youtube.com/watch?v=C74amJRp730) by Tristan Harris
+- [Data Visualizations](https://www.youtube.com/watch?v=S1PDU2Ckt5w) by Shirley Wu
+- [The Past, Present, and Future of CSS](https://www.youtube.com/watch?v=xlCYisIGnPE) by Una Kravets 
 
 ## Design
 
